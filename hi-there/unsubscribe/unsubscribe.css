@@ -1,0 +1,88 @@
+    body {
+        background-color: #C9C9C9;
+    }
+    .div-body {
+        width:100%;
+        max-width:595px;
+        margin:auto;
+        background-color: #ffff;
+    }
+    .logo-header {
+        height:82px;
+        width:100%;
+        box-shadow:  0px 5px 30px #ebebeb;
+        border-bottom: 1px black
+    }
+    .logo-header-image {
+        max-width:158px;
+        width:100%;
+        height: auto;
+        margin-top: 18px;
+        margin-left: 40px;
+    }
+    .main-div {
+        max-width:515px;
+        margin:auto;
+    }
+    .survey {
+        font-family: Roboto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 24px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .form-content {
+        background-image: url('https://bookinglane.com/images/invoice-images/Bookinglane-b.png'); background-repeat: no-repeat;
+        background-size: 300px 350px;
+        background-position: center top;
+    }
+    div p {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        text-align: center;
+    }
+    .textarea {
+        width: 345px;
+        height: 94px;
+        border: 1px solid rgba(0, 0, 0, .5);
+        box-sizing: border-box;
+        margin: auto;
+        outline: none;
+    }
+    .textarea:focus{
+        border: 1px solid #3773b8;
+    }
+    button {
+        width: 160px;
+        height: 43px;
+        border-radius: 8px;
+        border: 1px solid rgba(0, 0, 0, .5);
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        margin-top: 38px;
+    }
+    #btn1 {
+        background-color: white;
+        color: black;
+    }
+    #btn2 {
+        background: #221845;
+        color: white;
+        float: right;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    img {
+        width: 30px;
+        height: 30px;
+    }
+    ul {
+        list-style: none;
+    }
